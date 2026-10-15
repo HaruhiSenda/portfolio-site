@@ -154,6 +154,7 @@ nav{
 
 /*WORKセクション*/
 #works{
+    background-color: #F7F6EF;
     margin: 0 auto;
     max-width: 1320px;
     padding: 80px 0;
@@ -182,7 +183,7 @@ nav{
     aspect-ratio: 16/9;
     object-fit: cover;
 }
-card a{
+.card a{
     display: block;
 }
 .works-botton{
